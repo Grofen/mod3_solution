@@ -1,0 +1,41 @@
+.navbar-brand a:hover .navbar-brand a:foucs{
+	text-decoration: none;
+}
+
+div h2{
+	text-align: center;
+}
+
+#menu-header {
+	text-align: center;
+	margin-top: 60px;
+}
+
+.menu-content {
+	background-color: #6F86A9;
+}
+
+.menu-content p {
+	padding: 15px 15px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #1E4294;
+  background-color: #D4D5D4;
+}
+
+#nav-list a{
+	color: white;
+	text-align: center;
+	font-size: 1.8em;
+}
+
+#header-nav {
+	background-color: #5C78A7;
+}
+
+.navbar-brand h1 {
+	color: white;
+	margin-top: 0;
+	font-size: 1.5em;
+}
